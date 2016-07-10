@@ -25,4 +25,10 @@ https://www.interviewbit.com/problems/least-common-ancestor/
 - gps logger
   
   
+### Generic web usability/user interface/experience 
+- have a download pdf option
+- have a feedback/complaint/support option
+- chat online option
+- get how to make multi-tab modals, easy modal in css/html/js
+- 
 
