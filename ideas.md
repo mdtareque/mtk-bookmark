@@ -30,5 +30,6 @@ https://www.interviewbit.com/problems/least-common-ancestor/
 - have a feedback/complaint/support option
 - chat online option
 - get how to make multi-tab modals, easy modal in css/html/js
-- 
+- add website hit counter
+- learn d3 and add graphs/chart
 
