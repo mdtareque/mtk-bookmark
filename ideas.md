@@ -7,7 +7,7 @@ https://www.interviewbit.com/problems/least-common-ancestor/
   - js, html5, css3 canvas solution
   - unix dot image solution
 
-- hints for popular oj problems  
+- hints for popular oj problems  https://blog.anudeep2011.com/machine-learning-everywhere-why-not-in-competitive-programming/
   - probably web2py project
   - android app
 
