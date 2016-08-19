@@ -24,6 +24,8 @@ https://www.interviewbit.com/problems/least-common-ancestor/
   - provide hints
 - gps logger
   
+### Blogs
+ - relieing on next genration science school text books to understand physics, chemistry.
   
 ### Generic web usability/user interface/experience 
 - have a download pdf option
